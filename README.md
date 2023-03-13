@@ -1,4 +1,6 @@
-# Water_flow_and_associated_taxa_interact_to_modulate_the_algal_diffusive_boundary_layer
+# ![](images.jpeg)
+
+# Water flow and associated taxa interact to modulate the algal diffusive boundary layer
 
 Code, data, and output from Chapter 2 of my Master's thesis titled "Water flow and associated motile invertebrates interact to modulate the diffusive boundary layer (DBL) around a crustose coralline alga."
 
