@@ -1,8 +1,9 @@
 # ![](images.jpeg)
 
-# Water flow and associated taxa interact to modulate the algal diffusive boundary layer
+# Water flow and associated taxa interact to modulate the algal diffusive boundary layer (DBL)
 
-Code, data, and output from Chapter 2 of my Master's thesis titled "Water flow and associated motile invertebrates interact to modulate the diffusive boundary layer (DBL) around a crustose coralline alga."
+This repository holds the data, analyses, and figures for a master's thesis project at California State University, Northridge by Jess Glanz under the advisemnt of Dr. Robert Carpenter. Data were collected in an experimental flume at the Richard B. Gump Station in Mo'orea, French Polynesia. Data, scripts, and output pertain to a CCA DBL study. The chemical environment of the DBL is analyzed with and without associated motile inverts in zero/low/high water flow and light/dark conditions.
+
 
 Folders include:
 
